@@ -1,6 +1,6 @@
 # Wghost
 # A tool with high information For Check ( DNS / Proxy / IP )
-<img src="https://github.com/RustCompiler/Wghost">
+<img src="https://github.com/RustCompiler/Wghos](https://github.com/RustCompiler/Wghost/blob/main/photo_2025-01-05_13-42-32.jpg">
 
 
 # Prerequisites before implementation
