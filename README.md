@@ -19,7 +19,7 @@ Config > proxy.json File
 ***
 <br>
 
-# Use API Psnawp_api:
+# Requiment :
 ```
 pip install beautifulsoup4
 pip install requests
